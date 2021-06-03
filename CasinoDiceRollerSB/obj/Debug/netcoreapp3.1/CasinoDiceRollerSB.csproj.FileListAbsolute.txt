@@ -1,0 +1,4 @@
+C:\Users\Munce\source\repos\CasinoDiceRollerSB\CasinoDiceRollerSB\obj\Debug\netcoreapp3.1\CasinoDiceRollerSB.csprojAssemblyReference.cache
+C:\Users\Munce\source\repos\CasinoDiceRollerSB\CasinoDiceRollerSB\obj\Debug\netcoreapp3.1\CasinoDiceRollerSB.AssemblyInfoInputs.cache
+C:\Users\Munce\source\repos\CasinoDiceRollerSB\CasinoDiceRollerSB\obj\Debug\netcoreapp3.1\CasinoDiceRollerSB.AssemblyInfo.cs
+C:\Users\Munce\source\repos\CasinoDiceRollerSB\CasinoDiceRollerSB\obj\Debug\netcoreapp3.1\CasinoDiceRollerSB.csproj.CoreCompileInputs.cache
